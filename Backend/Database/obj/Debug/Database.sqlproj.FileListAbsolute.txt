@@ -1,0 +1,6 @@
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\Database\bin\Debug\Database.dacpac
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\Database\bin\Debug\Database.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\Database\bin\Debug\Database.pdb
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\Database\obj\Debug\Database.sqlprojAssemblyReference.cache
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\Database\obj\Debug\Database.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\Database\obj\Debug\Database.pdb

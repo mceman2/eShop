@@ -1,0 +1,20 @@
+<nav class="navbar navbar-default">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <a routerLink='/' routerLinkActive='active'>
+                    <img src="https://scontent.fsjj2-1.fna.fbcdn.net/v/t1.0-9/p960x960/55849342_401615680678266_2271131607513432064_o.jpg?_nc_cat=106&_nc_sid=85a577&_nc_oc=AQnyadXOVGjI7E6vBwpnVOPP70r6PvbzgZrJ3fufju1JTNgBDlu8PYD3ritWjhILe4C52r3K1WYQ3PRhdovrK2V8&_nc_ht=scontent.fsjj2-1.fna&_nc_tp=6&oh=ca18c5262fbfc94d4ec470eb06c78d04&oe=5E990445" alt="AP logo" class="img-fluid" height="50" width="50">
+            </a>
+        </div>
+        <div class="navbar-default">
+            <ul class="nav navbar-nav navbar-right">
+                <li><a routerLink="/Cart" *ngIf="service.successfulLoginRegistration" routerLinkActive="active">Cart</a></li>
+                <li><a  *ngIf="service.successfulLoginRegistration" (click)="service.Logout()">Logout</a></li>
+                <li><a routerLink="/SignIn" *ngIf="!service.successfulLoginRegistration" routerLinkActive="active">Log In</a></li>
+                <li><a routerLink="/Register" *ngIf="!service.successfulLoginRegistration" routerLinkActive="active">Register</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+
+

@@ -1,0 +1,22 @@
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\DbRepositories\bin\Debug\netcoreapp3.0\DbRepositories.deps.json
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\DbRepositories\bin\Debug\netcoreapp3.0\DbRepositories.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\DbRepositories\bin\Debug\netcoreapp3.0\DbRepositories.pdb
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\DbRepositories\obj\Debug\netcoreapp3.0\DbRepositories.AssemblyInfoInputs.cache
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\DbRepositories\obj\Debug\netcoreapp3.0\DbRepositories.AssemblyInfo.cs
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\DbRepositories\obj\Debug\netcoreapp3.0\DbRepositories.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\DbRepositories\obj\Debug\netcoreapp3.0\DbRepositories.pdb
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\DbRepositories\obj\Debug\netcoreapp3.0\DbRepositories.csprojAssemblyReference.cache
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\DbRepositories\bin\Debug\netcoreapp3.0\EfModels.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\DbRepositories\bin\Debug\netcoreapp3.0\EfModels.pdb
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\DbRepositories\obj\Debug\netcoreapp3.0\DbRepositories.csproj.CopyComplete
+C:\Users\Mirza\Desktop\AP-Shop\Backend\DbRepositories\bin\Debug\netcoreapp3.0\DbRepositories.deps.json
+C:\Users\Mirza\Desktop\AP-Shop\Backend\DbRepositories\bin\Debug\netcoreapp3.0\DbRepositories.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\DbRepositories\bin\Debug\netcoreapp3.0\DbRepositories.pdb
+C:\Users\Mirza\Desktop\AP-Shop\Backend\DbRepositories\bin\Debug\netcoreapp3.0\EfModels.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\DbRepositories\bin\Debug\netcoreapp3.0\EfModels.pdb
+C:\Users\Mirza\Desktop\AP-Shop\Backend\DbRepositories\obj\Debug\netcoreapp3.0\DbRepositories.csprojAssemblyReference.cache
+C:\Users\Mirza\Desktop\AP-Shop\Backend\DbRepositories\obj\Debug\netcoreapp3.0\DbRepositories.AssemblyInfoInputs.cache
+C:\Users\Mirza\Desktop\AP-Shop\Backend\DbRepositories\obj\Debug\netcoreapp3.0\DbRepositories.AssemblyInfo.cs
+C:\Users\Mirza\Desktop\AP-Shop\Backend\DbRepositories\obj\Debug\netcoreapp3.0\DbRepositories.csproj.CopyComplete
+C:\Users\Mirza\Desktop\AP-Shop\Backend\DbRepositories\obj\Debug\netcoreapp3.0\DbRepositories.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\DbRepositories\obj\Debug\netcoreapp3.0\DbRepositories.pdb

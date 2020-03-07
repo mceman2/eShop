@@ -1,0 +1,32 @@
+<form class="form-group row">
+        <div  class="col-xs-6">
+                <input class="form-control" type="text" placeholder="Search for anything" aria-label="Search for anything"
+                (keyup)="searchProductByName($event)">
+        </div>
+        <div  class="col-xs-2">
+                <select class="form-control" (change)="sendCategories($event.target.value)">
+                        <option value="allCategories" class="form-control form-control-sm">All Categories</option>
+                        <option value="Cars" class="form-control form-control-sm">Cars</option>
+                        <option value="Fashion" class="form-control form-control-sm">Fashion</option>
+                        <option value="Recipe" class="form-control form-control-sm">Recipe</option>
+                </select>
+        </div> 
+        <div class="col-xs-2">
+                <button class="form-control button" type="button" (click)="sendName()">Search</button>
+        </div>
+        <br> <br> <br> 
+        <div class="col-xs-8">
+                Price range From : <input type="number"> To :<input type="number"> 
+        </div>
+        <div  class="col-xs-2">
+                Condition:
+                <select form="form-control">
+                        <option value="Used"  class="form-control form-control-sm">Used</option>
+                        <option value="New"  class="form-control form-control-sm">New</option>
+                </select>
+        </div>
+        <div  class="col-xs-2">
+                Free Shipping <input class="form-check-input" type="checkbox">
+        </div>
+
+</form>

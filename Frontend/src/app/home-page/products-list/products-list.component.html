@@ -1,0 +1,25 @@
+<div class="row">
+    <div *ngFor="let product of products">
+        <a
+            [routerLink]="['/ProductDetails', product.id]" routerLinkActive='active'
+            class="list-group-item clearfix"
+            *ngIf="product.category === currentCategory || currentCategory === 'allCategories'" 
+            > 
+                  <div class="pull-left">
+                      <h4 class="list-group-item-heading">{{ product.name }}</h4>
+                      <p class="list-group-item-text">{{ product.shortDescription }}</p>
+                    </div>
+                    
+                    <div >
+                        <p class="list-group-item-heading"> {{ product.price }} $</p>
+                    </div>
+                    <span class="pull-right">
+                      <img
+                        [src]="product.image"
+                        alt="{{ product.name }}"
+                        class="img-responsive"
+                        style="max-height: 50px;">
+                    </span>
+        </a>
+    </div>
+</div>

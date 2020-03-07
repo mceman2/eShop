@@ -1,0 +1,38 @@
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\BusinessLogicLayer\bin\Debug\netcoreapp3.0\BusinessLogicLayer.deps.json
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\BusinessLogicLayer\bin\Debug\netcoreapp3.0\BusinessLogicLayer.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\BusinessLogicLayer\bin\Debug\netcoreapp3.0\BusinessLogicLayer.pdb
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\BusinessLogicLayer\obj\Debug\netcoreapp3.0\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\BusinessLogicLayer\obj\Debug\netcoreapp3.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\BusinessLogicLayer\obj\Debug\netcoreapp3.0\BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\BusinessLogicLayer\obj\Debug\netcoreapp3.0\BusinessLogicLayer.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\BusinessLogicLayer\obj\Debug\netcoreapp3.0\BusinessLogicLayer.pdb
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\BusinessLogicLayer\bin\Debug\netcoreapp3.0\APShopDTO.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\BusinessLogicLayer\bin\Debug\netcoreapp3.0\DataAccessLayer.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\BusinessLogicLayer\bin\Debug\netcoreapp3.0\DbRepositories.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\BusinessLogicLayer\bin\Debug\netcoreapp3.0\DbUnitOfWork.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\BusinessLogicLayer\bin\Debug\netcoreapp3.0\EfModels.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\BusinessLogicLayer\bin\Debug\netcoreapp3.0\DataAccessLayer.pdb
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\BusinessLogicLayer\bin\Debug\netcoreapp3.0\APShopDTO.pdb
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\BusinessLogicLayer\bin\Debug\netcoreapp3.0\DbRepositories.pdb
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\BusinessLogicLayer\bin\Debug\netcoreapp3.0\DbUnitOfWork.pdb
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\BusinessLogicLayer\bin\Debug\netcoreapp3.0\EfModels.pdb
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\BusinessLogicLayer\obj\Debug\netcoreapp3.0\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Mirza\Desktop\AP-Shop\Backend\BusinessLogicLayer\bin\Debug\netcoreapp3.0\BusinessLogicLayer.deps.json
+C:\Users\Mirza\Desktop\AP-Shop\Backend\BusinessLogicLayer\bin\Debug\netcoreapp3.0\BusinessLogicLayer.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\BusinessLogicLayer\bin\Debug\netcoreapp3.0\BusinessLogicLayer.pdb
+C:\Users\Mirza\Desktop\AP-Shop\Backend\BusinessLogicLayer\bin\Debug\netcoreapp3.0\APShopDTO.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\BusinessLogicLayer\bin\Debug\netcoreapp3.0\DataAccessLayer.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\BusinessLogicLayer\bin\Debug\netcoreapp3.0\DbRepositories.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\BusinessLogicLayer\bin\Debug\netcoreapp3.0\DbUnitOfWork.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\BusinessLogicLayer\bin\Debug\netcoreapp3.0\EfModels.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\BusinessLogicLayer\bin\Debug\netcoreapp3.0\DataAccessLayer.pdb
+C:\Users\Mirza\Desktop\AP-Shop\Backend\BusinessLogicLayer\bin\Debug\netcoreapp3.0\APShopDTO.pdb
+C:\Users\Mirza\Desktop\AP-Shop\Backend\BusinessLogicLayer\bin\Debug\netcoreapp3.0\DbRepositories.pdb
+C:\Users\Mirza\Desktop\AP-Shop\Backend\BusinessLogicLayer\bin\Debug\netcoreapp3.0\DbUnitOfWork.pdb
+C:\Users\Mirza\Desktop\AP-Shop\Backend\BusinessLogicLayer\bin\Debug\netcoreapp3.0\EfModels.pdb
+C:\Users\Mirza\Desktop\AP-Shop\Backend\BusinessLogicLayer\obj\Debug\netcoreapp3.0\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\Mirza\Desktop\AP-Shop\Backend\BusinessLogicLayer\obj\Debug\netcoreapp3.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\Mirza\Desktop\AP-Shop\Backend\BusinessLogicLayer\obj\Debug\netcoreapp3.0\BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\Mirza\Desktop\AP-Shop\Backend\BusinessLogicLayer\obj\Debug\netcoreapp3.0\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Mirza\Desktop\AP-Shop\Backend\BusinessLogicLayer\obj\Debug\netcoreapp3.0\BusinessLogicLayer.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\BusinessLogicLayer\obj\Debug\netcoreapp3.0\BusinessLogicLayer.pdb

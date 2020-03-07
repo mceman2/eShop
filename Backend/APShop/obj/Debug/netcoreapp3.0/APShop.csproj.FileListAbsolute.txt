@@ -1,0 +1,377 @@
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\APShop.exe
+C:\Users\AP LAB\source\repos\APShop\APShop\obj\Debug\netcoreapp3.0\APShop.csprojAssemblyReference.cache
+C:\Users\AP LAB\source\repos\APShop\APShop\obj\Debug\netcoreapp3.0\staticwebassets\APShop.StaticWebAssets.Manifest.cache
+C:\Users\AP LAB\source\repos\APShop\APShop\obj\Debug\netcoreapp3.0\staticwebassets\APShop.StaticWebAssets.xml
+C:\Users\AP LAB\source\repos\APShop\APShop\obj\Debug\netcoreapp3.0\APShop.AssemblyInfoInputs.cache
+C:\Users\AP LAB\source\repos\APShop\APShop\obj\Debug\netcoreapp3.0\APShop.AssemblyInfo.cs
+C:\Users\AP LAB\source\repos\APShop\APShop\obj\Debug\netcoreapp3.0\APShop.RazorTargetAssemblyInfo.cache
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\obj\Debug\netcoreapp3.0\APShop.csproj.CopyComplete
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\APShop.deps.json
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\APShop.runtimeconfig.json
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\APShop.runtimeconfig.dev.json
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\APShop.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\APShop.pdb
+C:\Users\AP LAB\source\repos\APShop\APShop\obj\Debug\netcoreapp3.0\APShop.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\obj\Debug\netcoreapp3.0\APShop.pdb
+C:\Users\AP LAB\source\repos\APShop\APShop\obj\Debug\netcoreapp3.0\APShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\APShopDTO.dll
+C:\Users\AP LAB\source\repos\APShop\APShop\bin\Debug\netcoreapp3.0\APShopDTO.pdb
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\APShop.exe
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\APShop.deps.json
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\APShop.runtimeconfig.json
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\APShop.runtimeconfig.dev.json
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\APShop.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\APShop.pdb
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\APShopDTO.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\APShopDTO.pdb
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\obj\Debug\netcoreapp3.0\APShop.csprojAssemblyReference.cache
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\obj\Debug\netcoreapp3.0\staticwebassets\APShop.StaticWebAssets.Manifest.cache
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\obj\Debug\netcoreapp3.0\staticwebassets\APShop.StaticWebAssets.xml
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\obj\Debug\netcoreapp3.0\APShop.AssemblyInfoInputs.cache
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\obj\Debug\netcoreapp3.0\APShop.AssemblyInfo.cs
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\obj\Debug\netcoreapp3.0\APShop.RazorTargetAssemblyInfo.cache
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\obj\Debug\netcoreapp3.0\APShop.csproj.CopyComplete
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\obj\Debug\netcoreapp3.0\APShop.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\obj\Debug\netcoreapp3.0\APShop.pdb
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\System.Web.Cors.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\System.Net.Http.Formatting.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\System.Web.Http.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\System.Web.Http.Cors.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\obj\Debug\netcoreapp3.0\APShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\EfModels.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\EfModels.pdb
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\DataAccessLayer.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\DbRepositories.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\DbUnitOfWork.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\DataAccessLayer.pdb
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\DbRepositories.pdb
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\DbUnitOfWork.pdb
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\AutoMapper.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Mapper.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Mapper.pdb
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\BusinessLogicLayer.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\BusinessLogicLayer.pdb
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\APShop.exe
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\APShop.deps.json
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\APShop.runtimeconfig.json
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\APShop.runtimeconfig.dev.json
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\APShop.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\APShop.pdb
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\AutoMapper.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\System.Web.Cors.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\System.Net.Http.Formatting.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\System.Web.Http.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\System.Web.Http.Cors.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\APShopDTO.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\BusinessLogicLayer.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\DataAccessLayer.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\DbRepositories.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\DbUnitOfWork.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\EfModels.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Mapper.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\APShopDTO.pdb
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\BusinessLogicLayer.pdb
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\DataAccessLayer.pdb
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\EfModels.pdb
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\Mapper.pdb
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\DbRepositories.pdb
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\bin\Debug\netcoreapp3.0\DbUnitOfWork.pdb
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\obj\Debug\netcoreapp3.0\APShop.csprojAssemblyReference.cache
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\obj\Debug\netcoreapp3.0\staticwebassets\APShop.StaticWebAssets.Manifest.cache
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\obj\Debug\netcoreapp3.0\staticwebassets\APShop.StaticWebAssets.xml
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\obj\Debug\netcoreapp3.0\APShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\obj\Debug\netcoreapp3.0\APShop.AssemblyInfoInputs.cache
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\obj\Debug\netcoreapp3.0\APShop.AssemblyInfo.cs
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\obj\Debug\netcoreapp3.0\APShop.RazorTargetAssemblyInfo.cache
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\obj\Debug\netcoreapp3.0\APShop.csproj.CopyComplete
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\obj\Debug\netcoreapp3.0\APShop.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShop\obj\Debug\netcoreapp3.0\APShop.pdb

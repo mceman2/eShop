@@ -1,0 +1,24 @@
+C:\Users\AP LAB\source\repos\APShop\APShopDTO\bin\Debug\netcoreapp3.0\APShopDTO.deps.json
+C:\Users\AP LAB\source\repos\APShop\APShopDTO\bin\Debug\netcoreapp3.0\APShopDTO.dll
+C:\Users\AP LAB\source\repos\APShop\APShopDTO\bin\Debug\netcoreapp3.0\APShopDTO.pdb
+C:\Users\AP LAB\source\repos\APShop\APShopDTO\obj\Debug\netcoreapp3.0\APShopDTO.csprojAssemblyReference.cache
+C:\Users\AP LAB\source\repos\APShop\APShopDTO\obj\Debug\netcoreapp3.0\APShopDTO.AssemblyInfoInputs.cache
+C:\Users\AP LAB\source\repos\APShop\APShopDTO\obj\Debug\netcoreapp3.0\APShopDTO.AssemblyInfo.cs
+C:\Users\AP LAB\source\repos\APShop\APShopDTO\obj\Debug\netcoreapp3.0\APShopDTO.dll
+C:\Users\AP LAB\source\repos\APShop\APShopDTO\obj\Debug\netcoreapp3.0\APShopDTO.pdb
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShopDTO\bin\Debug\netcoreapp3.0\APShopDTO.deps.json
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShopDTO\bin\Debug\netcoreapp3.0\APShopDTO.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShopDTO\bin\Debug\netcoreapp3.0\APShopDTO.pdb
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShopDTO\obj\Debug\netcoreapp3.0\APShopDTO.csprojAssemblyReference.cache
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShopDTO\obj\Debug\netcoreapp3.0\APShopDTO.AssemblyInfoInputs.cache
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShopDTO\obj\Debug\netcoreapp3.0\APShopDTO.AssemblyInfo.cs
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShopDTO\obj\Debug\netcoreapp3.0\APShopDTO.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\APShopDTO\obj\Debug\netcoreapp3.0\APShopDTO.pdb
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShopDTO\bin\Debug\netcoreapp3.0\APShopDTO.deps.json
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShopDTO\bin\Debug\netcoreapp3.0\APShopDTO.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShopDTO\bin\Debug\netcoreapp3.0\APShopDTO.pdb
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShopDTO\obj\Debug\netcoreapp3.0\APShopDTO.csprojAssemblyReference.cache
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShopDTO\obj\Debug\netcoreapp3.0\APShopDTO.AssemblyInfoInputs.cache
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShopDTO\obj\Debug\netcoreapp3.0\APShopDTO.AssemblyInfo.cs
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShopDTO\obj\Debug\netcoreapp3.0\APShopDTO.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\APShopDTO\obj\Debug\netcoreapp3.0\APShopDTO.pdb

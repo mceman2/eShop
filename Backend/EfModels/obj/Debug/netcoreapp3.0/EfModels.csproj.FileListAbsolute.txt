@@ -1,0 +1,20 @@
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\EfModels\bin\Debug\netcoreapp3.0\EfModels.deps.json
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\EfModels\bin\Debug\netcoreapp3.0\EfModels.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\EfModels\obj\Debug\netcoreapp3.0\EfModels.csprojAssemblyReference.cache
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\EfModels\obj\Debug\netcoreapp3.0\EfModels.AssemblyInfoInputs.cache
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\EfModels\obj\Debug\netcoreapp3.0\EfModels.AssemblyInfo.cs
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\EfModels\bin\Debug\netcoreapp3.0\EfModels.runtimeconfig.json
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\EfModels\bin\Debug\netcoreapp3.0\EfModels.runtimeconfig.dev.json
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\EfModels\bin\Debug\netcoreapp3.0\EfModels.pdb
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\EfModels\obj\Debug\netcoreapp3.0\EfModels.dll
+C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\EfModels\obj\Debug\netcoreapp3.0\EfModels.pdb
+C:\Users\Mirza\Desktop\AP-Shop\Backend\EfModels\bin\Debug\netcoreapp3.0\EfModels.deps.json
+C:\Users\Mirza\Desktop\AP-Shop\Backend\EfModels\bin\Debug\netcoreapp3.0\EfModels.runtimeconfig.json
+C:\Users\Mirza\Desktop\AP-Shop\Backend\EfModels\bin\Debug\netcoreapp3.0\EfModels.runtimeconfig.dev.json
+C:\Users\Mirza\Desktop\AP-Shop\Backend\EfModels\bin\Debug\netcoreapp3.0\EfModels.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\EfModels\bin\Debug\netcoreapp3.0\EfModels.pdb
+C:\Users\Mirza\Desktop\AP-Shop\Backend\EfModels\obj\Debug\netcoreapp3.0\EfModels.csprojAssemblyReference.cache
+C:\Users\Mirza\Desktop\AP-Shop\Backend\EfModels\obj\Debug\netcoreapp3.0\EfModels.AssemblyInfoInputs.cache
+C:\Users\Mirza\Desktop\AP-Shop\Backend\EfModels\obj\Debug\netcoreapp3.0\EfModels.AssemblyInfo.cs
+C:\Users\Mirza\Desktop\AP-Shop\Backend\EfModels\obj\Debug\netcoreapp3.0\EfModels.dll
+C:\Users\Mirza\Desktop\AP-Shop\Backend\EfModels\obj\Debug\netcoreapp3.0\EfModels.pdb
