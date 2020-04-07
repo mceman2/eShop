@@ -1236,24 +1236,14 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "APShopDTO/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.0",
-        "compile": {
-          "bin/placeholder/APShopDTO.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/APShopDTO.dll": {}
-        }
-      },
       "DataAccessLayer/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.0",
         "dependencies": {
-          "APShopDTO": "1.0.0",
           "AutoMapper": "9.0.0",
           "DbUnitOfWork": "1.0.0",
-          "EfModels": "1.0.0"
+          "EfModels": "1.0.0",
+          "eShopDTO": "1.0.0"
         },
         "compile": {
           "bin/placeholder/DataAccessLayer.dll": {}
@@ -1301,6 +1291,16 @@
         },
         "runtime": {
           "bin/placeholder/EfModels.dll": {}
+        }
+      },
+      "eShopDTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/eShopDTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/eShopDTO.dll": {}
         }
       }
     }
@@ -4933,11 +4933,6 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "APShopDTO/1.0.0": {
-      "type": "project",
-      "path": "../APShopDTO/APShopDTO.csproj",
-      "msbuildProject": "../APShopDTO/APShopDTO.csproj"
-    },
     "DataAccessLayer/1.0.0": {
       "type": "project",
       "path": "../DataAccessLayer/DataAccessLayer.csproj",
@@ -4957,6 +4952,11 @@
       "type": "project",
       "path": "../EfModels/EfModels.csproj",
       "msbuildProject": "../EfModels/EfModels.csproj"
+    },
+    "eShopDTO/1.0.0": {
+      "type": "project",
+      "path": "../APShopDTO/eShopDTO.csproj",
+      "msbuildProject": "../APShopDTO/eShopDTO.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4970,11 +4970,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
       "projectName": "BusinessLogicLayer",
-      "projectPath": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+      "projectPath": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
       "packagesPath": "C:\\Users\\Mirza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\BusinessLogicLayer\\obj\\",
+      "outputPath": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\BusinessLogicLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mirza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4990,8 +4990,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\DataAccessLayer\\DataAccessLayer.csproj"
+            "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\DataAccessLayer\\DataAccessLayer.csproj"
             }
           }
         }

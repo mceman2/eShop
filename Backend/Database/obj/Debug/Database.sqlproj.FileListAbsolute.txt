@@ -4,3 +4,9 @@ C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\Database\bin\Debug
 C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\Database\obj\Debug\Database.sqlprojAssemblyReference.cache
 C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\Database\obj\Debug\Database.dll
 C:\Users\AP LAB\source\repos\mirza\MirzaCeman\AP-Shop\Backend\Database\obj\Debug\Database.pdb
+C:\Users\Mirza\Desktop\eShop\Backend\Database\bin\Debug\Database.dacpac
+C:\Users\Mirza\Desktop\eShop\Backend\Database\bin\Debug\Database.dll
+C:\Users\Mirza\Desktop\eShop\Backend\Database\bin\Debug\Database.pdb
+C:\Users\Mirza\Desktop\eShop\Backend\Database\obj\Debug\Database.sqlprojAssemblyReference.cache
+C:\Users\Mirza\Desktop\eShop\Backend\Database\obj\Debug\Database.dll
+C:\Users\Mirza\Desktop\eShop\Backend\Database\obj\Debug\Database.pdb

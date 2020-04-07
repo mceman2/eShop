@@ -50,10 +50,10 @@ namespace DbRepositories
         {
             var query = _context.Product.AsQueryable();
 
-            if (CategoryId > 0)
-            {
-                query = query.Where(x => x.ProductDetails.SingleOrDefault().Category == CategoryId);
-            }
+            //if (CategoryId > 0)
+            //{
+            //    query = query.Where(x => x.ProductDetails.SingleOrDefault().Category == CategoryId);
+            //}
             if (FreeShipping == true)
             {
                 query = query.Where(x => x.ShippingPrice == 0);

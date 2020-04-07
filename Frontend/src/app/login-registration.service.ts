@@ -1,8 +1,8 @@
 import { Injectable } from '@angular/core';
 import { HttpClient, HttpHeaders, HttpErrorResponse } from '@angular/common/http';
-import { User } from './User.model';
-import { Observable } from 'rxjs';
 import { Router } from '@angular/router';
+
+import { User } from './models/User.model';
 
 @Injectable({
   providedIn: 'root'
@@ -42,7 +42,7 @@ export class LoginRegistrationService {
         'Content-Type':  'application/json'
       })
     };
-    
+
     const newUserInfo: User = {username : user.username, password : user.password, role: +user.role};
 
     return await this.http.post<number>(this.urlAPI, newUserInfo, headerHttp)

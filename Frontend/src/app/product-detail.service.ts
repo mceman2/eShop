@@ -1,9 +1,11 @@
 import { Injectable } from '@angular/core';
-import { HttpClient, HttpHeaders, HttpErrorResponse } from '@angular/common/http';
+import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Router } from '@angular/router';
-import { ProductDetail } from '../app/productDetail.model';
-import { FullProductRes } from '../app/models/FullProductRes.model';
+
 import { LoginRegistrationService } from '../app/login-registration.service';
+import { FullProductRes } from '../app/models/FullProductRes.model';
+import { ProductDetail } from './models/productDetail.model';
+
 
 @Injectable({
   providedIn: 'root'
@@ -40,14 +42,16 @@ export class ProductDetailService {
     };
     this.code = this.rawFullProduct.product.code;
   }
-    public async PostItemToCartAPI(cartItem): Promise<any> {
+    public PostItemToCartAPI(cartItem) {
     const headerHttp = {
       headers: new HttpHeaders({
-        'Content-Type':  'application/json'
+        'Content-Type':  'text'
       })
     };
 
-    return await this.http.post<number>(this.urlAPI + 'User/' + this.loginRegistrationService.userInfo.id + '/cart', cartItem, headerHttp)
-    .toPromise().then(data => {console.log(data); });
+    return this.http
+    .post(this.urlAPI + 'User/' + this.loginRegistrationService.userInfo.id +
+     '/cart', cartItem);
+
   }
 }

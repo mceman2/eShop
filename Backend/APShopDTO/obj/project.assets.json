@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\APShopDTO\\APShopDTO.csproj",
-      "projectName": "APShopDTO",
-      "projectPath": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\APShopDTO\\APShopDTO.csproj",
+      "projectUniqueName": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\APShopDTO\\EShopDTO.csproj",
+      "projectName": "EShopDTO",
+      "projectPath": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\APShopDTO\\EShopDTO.csproj",
       "packagesPath": "C:\\Users\\Mirza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\APShopDTO\\obj\\",
+      "outputPath": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\APShopDTO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mirza\\AppData\\Roaming\\NuGet\\NuGet.Config",

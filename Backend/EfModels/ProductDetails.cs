@@ -11,7 +11,7 @@ namespace EfModels
         public int Condition { get; set; }
         public int Gender { get; set; }
         public int Color { get; set; }
-        public int Category { get; set; }
+        public int Model { get; set; }
         public int PublishedBy { get; set; }
         public string ShippingFrom { get; set; }
 

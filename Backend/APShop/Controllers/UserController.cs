@@ -104,7 +104,7 @@ namespace APShop.Controllers
             catch(ArgumentNullException ex) {
                 return BadRequest(ex.Message);            
             }
-            return Ok("OK");
+            return Ok(1);
 
         }
 

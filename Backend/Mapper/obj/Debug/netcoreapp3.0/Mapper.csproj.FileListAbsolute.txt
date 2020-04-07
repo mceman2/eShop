@@ -24,3 +24,16 @@ C:\Users\Mirza\Desktop\AP-Shop\Backend\Mapper\obj\Debug\netcoreapp3.0\Mapper.Ass
 C:\Users\Mirza\Desktop\AP-Shop\Backend\Mapper\obj\Debug\netcoreapp3.0\Mapper.csproj.CopyComplete
 C:\Users\Mirza\Desktop\AP-Shop\Backend\Mapper\obj\Debug\netcoreapp3.0\Mapper.dll
 C:\Users\Mirza\Desktop\AP-Shop\Backend\Mapper\obj\Debug\netcoreapp3.0\Mapper.pdb
+C:\Users\Mirza\Desktop\eShop\Backend\Mapper\obj\Debug\netcoreapp3.0\Mapper.csprojAssemblyReference.cache
+C:\Users\Mirza\Desktop\eShop\Backend\Mapper\obj\Debug\netcoreapp3.0\Mapper.AssemblyInfoInputs.cache
+C:\Users\Mirza\Desktop\eShop\Backend\Mapper\obj\Debug\netcoreapp3.0\Mapper.AssemblyInfo.cs
+C:\Users\Mirza\Desktop\eShop\Backend\Mapper\obj\Debug\netcoreapp3.0\Mapper.dll
+C:\Users\Mirza\Desktop\eShop\Backend\Mapper\obj\Debug\netcoreapp3.0\Mapper.pdb
+C:\Users\Mirza\Desktop\eShop\Backend\Mapper\bin\Debug\netcoreapp3.0\Mapper.deps.json
+C:\Users\Mirza\Desktop\eShop\Backend\Mapper\bin\Debug\netcoreapp3.0\Mapper.dll
+C:\Users\Mirza\Desktop\eShop\Backend\Mapper\bin\Debug\netcoreapp3.0\Mapper.pdb
+C:\Users\Mirza\Desktop\eShop\Backend\Mapper\bin\Debug\netcoreapp3.0\EfModels.dll
+C:\Users\Mirza\Desktop\eShop\Backend\Mapper\bin\Debug\netcoreapp3.0\eShopDTO.dll
+C:\Users\Mirza\Desktop\eShop\Backend\Mapper\bin\Debug\netcoreapp3.0\eShopDTO.pdb
+C:\Users\Mirza\Desktop\eShop\Backend\Mapper\bin\Debug\netcoreapp3.0\EfModels.pdb
+C:\Users\Mirza\Desktop\eShop\Backend\Mapper\obj\Debug\netcoreapp3.0\Mapper.csproj.CopyComplete

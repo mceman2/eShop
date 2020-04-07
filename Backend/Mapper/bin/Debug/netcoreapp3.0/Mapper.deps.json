@@ -8,9 +8,9 @@
     ".NETCoreApp,Version=v3.0": {
       "Mapper/1.0.0": {
         "dependencies": {
-          "APShopDTO": "1.0.0",
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "7.0.0",
-          "EfModels": "1.0.0"
+          "EfModels": "1.0.0",
+          "eShopDTO": "1.0.0"
         },
         "runtime": {
           "Mapper.dll": {}
@@ -837,17 +837,17 @@
           "System.Xml.XmlDocument": "4.3.0"
         }
       },
-      "APShopDTO/1.0.0": {
-        "runtime": {
-          "APShopDTO.dll": {}
-        }
-      },
       "EfModels/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": "3.0.0"
         },
         "runtime": {
           "EfModels.dll": {}
+        }
+      },
+      "eShopDTO/1.0.0": {
+        "runtime": {
+          "eShopDTO.dll": {}
         }
       }
     }
@@ -1460,12 +1460,12 @@
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
-    "APShopDTO/1.0.0": {
+    "EfModels/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "EfModels/1.0.0": {
+    "eShopDTO/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

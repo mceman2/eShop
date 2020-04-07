@@ -1,11 +1,9 @@
 import { Injectable } from '@angular/core';
 import { Router } from '@angular/router';
-import { HttpClient, HttpHeaders, HttpErrorResponse } from '@angular/common/http';
-import { FilterInfo, ConditionTypes, CategoryTypes, SearchBy, GenderTypes, ColorTypes } from '../app/SearchBy.model';
+import { HttpClient } from '@angular/common/http';
+import { FilterInfo, ConditionTypes, CategoryTypes, SearchBy, GenderTypes, ColorTypes } from './models/SearchBy.model';
 
-
-
-import { Product } from '../app/product.model';
+import { Product } from './models/product.model';
 
 @Injectable({
   providedIn: 'root'
@@ -33,16 +31,16 @@ export class ProductsService {
 
 public searchResults: Product[];
 private rawArrayOfProducts: Product[];
-searchBy: SearchBy = {Search : '', Category: CategoryTypes.All, Gender: GenderTypes.All, 
+searchBy: SearchBy = {Search : '', Category: CategoryTypes.All, Gender: GenderTypes.All,
 Condition: ConditionTypes.All, PriceRange: {fromPrice: 0 , toPrice: 0 } , FreeShipping: false };
 
 
   private urlAPI = 'https://localhost:44387/api/product';
 public async GetItemsAPI(): Promise<Product[]> {
 
-  return this.http.get<Product[]>(this.urlAPI + '?SearchText=' + this.searchBy.Search + '&categoryId=' 
-  + this.searchBy.Category + '&condition=' + this.searchBy.Condition + 
-   '&PriceFrom=' + this.searchBy.PriceRange.fromPrice + '&PriceTo=' + this.searchBy.PriceRange.toPrice + '&FreeShipping=' 
+  return this.http.get<Product[]>(this.urlAPI + '?SearchText=' + this.searchBy.Search + '&categoryId='
+  + this.searchBy.Category + '&condition=' + this.searchBy.Condition +
+   '&PriceFrom=' + this.searchBy.PriceRange.fromPrice + '&PriceTo=' + this.searchBy.PriceRange.toPrice + '&FreeShipping='
    + this.searchBy.FreeShipping).toPromise()
    .then(data => {this.rawArrayOfProducts = data; this.GetAllProducts(); }).then();
 }

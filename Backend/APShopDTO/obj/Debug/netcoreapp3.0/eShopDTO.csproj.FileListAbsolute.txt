@@ -1,0 +1,7 @@
+C:\Users\Mirza\Desktop\eShop\Backend\APShopDTO\obj\Debug\netcoreapp3.0\eShopDTO.AssemblyInfoInputs.cache
+C:\Users\Mirza\Desktop\eShop\Backend\APShopDTO\obj\Debug\netcoreapp3.0\eShopDTO.AssemblyInfo.cs
+C:\Users\Mirza\Desktop\eShop\Backend\APShopDTO\bin\Debug\netcoreapp3.0\eShopDTO.deps.json
+C:\Users\Mirza\Desktop\eShop\Backend\APShopDTO\bin\Debug\netcoreapp3.0\eShopDTO.dll
+C:\Users\Mirza\Desktop\eShop\Backend\APShopDTO\bin\Debug\netcoreapp3.0\eShopDTO.pdb
+C:\Users\Mirza\Desktop\eShop\Backend\APShopDTO\obj\Debug\netcoreapp3.0\eShopDTO.dll
+C:\Users\Mirza\Desktop\eShop\Backend\APShopDTO\obj\Debug\netcoreapp3.0\eShopDTO.pdb

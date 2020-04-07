@@ -24,3 +24,16 @@ C:\Users\Mirza\Desktop\AP-Shop\Backend\DbUnitOfWork\obj\Debug\netcoreapp3.0\DbUn
 C:\Users\Mirza\Desktop\AP-Shop\Backend\DbUnitOfWork\obj\Debug\netcoreapp3.0\DbUnitOfWork.csproj.CopyComplete
 C:\Users\Mirza\Desktop\AP-Shop\Backend\DbUnitOfWork\obj\Debug\netcoreapp3.0\DbUnitOfWork.dll
 C:\Users\Mirza\Desktop\AP-Shop\Backend\DbUnitOfWork\obj\Debug\netcoreapp3.0\DbUnitOfWork.pdb
+C:\Users\Mirza\Desktop\eShop\Backend\DbUnitOfWork\bin\Debug\netcoreapp3.0\DbUnitOfWork.deps.json
+C:\Users\Mirza\Desktop\eShop\Backend\DbUnitOfWork\bin\Debug\netcoreapp3.0\DbUnitOfWork.dll
+C:\Users\Mirza\Desktop\eShop\Backend\DbUnitOfWork\bin\Debug\netcoreapp3.0\DbUnitOfWork.pdb
+C:\Users\Mirza\Desktop\eShop\Backend\DbUnitOfWork\bin\Debug\netcoreapp3.0\DbRepositories.dll
+C:\Users\Mirza\Desktop\eShop\Backend\DbUnitOfWork\bin\Debug\netcoreapp3.0\EfModels.dll
+C:\Users\Mirza\Desktop\eShop\Backend\DbUnitOfWork\bin\Debug\netcoreapp3.0\DbRepositories.pdb
+C:\Users\Mirza\Desktop\eShop\Backend\DbUnitOfWork\bin\Debug\netcoreapp3.0\EfModels.pdb
+C:\Users\Mirza\Desktop\eShop\Backend\DbUnitOfWork\obj\Debug\netcoreapp3.0\DbUnitOfWork.csprojAssemblyReference.cache
+C:\Users\Mirza\Desktop\eShop\Backend\DbUnitOfWork\obj\Debug\netcoreapp3.0\DbUnitOfWork.AssemblyInfoInputs.cache
+C:\Users\Mirza\Desktop\eShop\Backend\DbUnitOfWork\obj\Debug\netcoreapp3.0\DbUnitOfWork.AssemblyInfo.cs
+C:\Users\Mirza\Desktop\eShop\Backend\DbUnitOfWork\obj\Debug\netcoreapp3.0\DbUnitOfWork.csproj.CopyComplete
+C:\Users\Mirza\Desktop\eShop\Backend\DbUnitOfWork\obj\Debug\netcoreapp3.0\DbUnitOfWork.dll
+C:\Users\Mirza\Desktop\eShop\Backend\DbUnitOfWork\obj\Debug\netcoreapp3.0\DbUnitOfWork.pdb

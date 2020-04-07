@@ -19,7 +19,7 @@ using BusinessLogicLayer;
 using BusinessLogicLayer.Interfaces;
 
 
-namespace APShop
+namespace eShop
 {
     public class Startup
     {

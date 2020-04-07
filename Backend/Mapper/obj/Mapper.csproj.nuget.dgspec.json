@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\Mapper\\Mapper.csproj": {}
+    "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\Mapper\\Mapper.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\APShopDTO\\APShopDTO.csproj": {
+    "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\APShopDTO\\eShopDTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\APShopDTO\\APShopDTO.csproj",
-        "projectName": "APShopDTO",
-        "projectPath": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\APShopDTO\\APShopDTO.csproj",
+        "projectUniqueName": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\APShopDTO\\eShopDTO.csproj",
+        "projectName": "eShopDTO",
+        "projectPath": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\APShopDTO\\eShopDTO.csproj",
         "packagesPath": "C:\\Users\\Mirza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\APShopDTO\\obj\\",
+        "outputPath": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\APShopDTO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mirza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\EfModels\\EfModels.csproj": {
+    "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\EfModels\\EfModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\EfModels\\EfModels.csproj",
+        "projectUniqueName": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\EfModels\\EfModels.csproj",
         "projectName": "EfModels",
-        "projectPath": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\EfModels\\EfModels.csproj",
+        "projectPath": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\EfModels\\EfModels.csproj",
         "packagesPath": "C:\\Users\\Mirza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\EfModels\\obj\\",
+        "outputPath": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\EfModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mirza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -148,14 +148,14 @@
         }
       }
     },
-    "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\Mapper\\Mapper.csproj": {
+    "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\Mapper\\Mapper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\Mapper\\Mapper.csproj",
+        "projectUniqueName": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\Mapper\\Mapper.csproj",
         "projectName": "Mapper",
-        "projectPath": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\Mapper\\Mapper.csproj",
+        "projectPath": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\Mapper\\Mapper.csproj",
         "packagesPath": "C:\\Users\\Mirza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\Mapper\\obj\\",
+        "outputPath": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\Mapper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mirza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -171,11 +171,11 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\APShopDTO\\APShopDTO.csproj": {
-                "projectPath": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\APShopDTO\\APShopDTO.csproj"
+              "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\APShopDTO\\eShopDTO.csproj": {
+                "projectPath": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\APShopDTO\\eShopDTO.csproj"
               },
-              "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\EfModels\\EfModels.csproj": {
-                "projectPath": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\EfModels\\EfModels.csproj"
+              "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\EfModels\\EfModels.csproj": {
+                "projectPath": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\EfModels\\EfModels.csproj"
               }
             }
           }

@@ -1,8 +1,7 @@
 import { Component, OnInit } from '@angular/core';
-import { ProductDetail } from '../productDetail.model';
+import { ActivatedRoute } from '@angular/router';
 
 import { ProductDetailService } from '../product-detail.service';
-import { ActivatedRoute } from '@angular/router';
 import { CartItemToPost } from '../models/CartItemToPost.model';
 
 @Component({
@@ -29,6 +28,6 @@ export class ProductDetailsPageComponent implements OnInit {
       quantity: this.quantity,
       code: this.product.code
     };
-    this.product.PostItemToCartAPI(cartItem).then();
+    this.product.PostItemToCartAPI(cartItem).subscribe();
   }
 }

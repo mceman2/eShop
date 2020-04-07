@@ -4886,11 +4886,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\DbUnitOfWork\\DbUnitOfWork.csproj",
+      "projectUniqueName": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\DbUnitOfWork\\DbUnitOfWork.csproj",
       "projectName": "DbUnitOfWork",
-      "projectPath": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\DbUnitOfWork\\DbUnitOfWork.csproj",
+      "projectPath": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\DbUnitOfWork\\DbUnitOfWork.csproj",
       "packagesPath": "C:\\Users\\Mirza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\DbUnitOfWork\\obj\\",
+      "outputPath": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\DbUnitOfWork\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mirza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4906,11 +4906,11 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\DbRepositories\\DbRepositories.csproj": {
-              "projectPath": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\DbRepositories\\DbRepositories.csproj"
+            "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\DbRepositories\\DbRepositories.csproj": {
+              "projectPath": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\DbRepositories\\DbRepositories.csproj"
             },
-            "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\EfModels\\EfModels.csproj": {
-              "projectPath": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\EfModels\\EfModels.csproj"
+            "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\EfModels\\EfModels.csproj": {
+              "projectPath": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\EfModels\\EfModels.csproj"
             }
           }
         }

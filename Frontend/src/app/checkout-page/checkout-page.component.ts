@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
+
 import { ProductsCartService } from '../products-cart.service';
-import { ProductCart } from '../productCart.model';
+import { ProductCart } from '../models/productCart.model';
 
 @Component({
   selector: 'app-checkout-page',

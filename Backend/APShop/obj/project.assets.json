@@ -2595,16 +2595,6 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "APShopDTO/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.0",
-        "compile": {
-          "bin/placeholder/APShopDTO.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/APShopDTO.dll": {}
-        }
-      },
       "BusinessLogicLayer/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.0",
@@ -2622,10 +2612,10 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.0",
         "dependencies": {
-          "APShopDTO": "1.0.0",
           "AutoMapper": "9.0.0",
           "DbUnitOfWork": "1.0.0",
-          "EfModels": "1.0.0"
+          "EfModels": "1.0.0",
+          "eShopDTO": "1.0.0"
         },
         "compile": {
           "bin/placeholder/DataAccessLayer.dll": {}
@@ -2675,13 +2665,23 @@
           "bin/placeholder/EfModels.dll": {}
         }
       },
+      "eShopDTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/eShopDTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/eShopDTO.dll": {}
+        }
+      },
       "Mapper/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.0",
         "dependencies": {
-          "APShopDTO": "1.0.0",
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "7.0.0",
-          "EfModels": "1.0.0"
+          "EfModels": "1.0.0",
+          "eShopDTO": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Mapper.dll": {}
@@ -8452,11 +8452,6 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "APShopDTO/1.0.0": {
-      "type": "project",
-      "path": "../APShopDTO/APShopDTO.csproj",
-      "msbuildProject": "../APShopDTO/APShopDTO.csproj"
-    },
     "BusinessLogicLayer/1.0.0": {
       "type": "project",
       "path": "../BusinessLogicLayer/BusinessLogicLayer.csproj",
@@ -8482,6 +8477,11 @@
       "path": "../EfModels/EfModels.csproj",
       "msbuildProject": "../EfModels/EfModels.csproj"
     },
+    "eShopDTO/1.0.0": {
+      "type": "project",
+      "path": "../APShopDTO/eShopDTO.csproj",
+      "msbuildProject": "../APShopDTO/eShopDTO.csproj"
+    },
     "Mapper/1.0.0": {
       "type": "project",
       "path": "../Mapper/Mapper.csproj",
@@ -8490,7 +8490,6 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
-      "APShopDTO >= 1.0.0",
       "BusinessLogicLayer >= 1.0.0",
       "DataAccessLayer >= 1.0.0",
       "EfModels >= 1.0.0",
@@ -8501,7 +8500,8 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 3.0.0",
       "Microsoft.Extensions.Logging.Debug >= 3.0.0",
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.0.0"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.0.0",
+      "eShopDTO >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -8510,11 +8510,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\APShop\\APShop.csproj",
-      "projectName": "APShop",
-      "projectPath": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\APShop\\APShop.csproj",
+      "projectUniqueName": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\APShop\\eShop.csproj",
+      "projectName": "eShop",
+      "projectPath": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\APShop\\eShop.csproj",
       "packagesPath": "C:\\Users\\Mirza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\APShop\\obj\\",
+      "outputPath": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\APShop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mirza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8530,20 +8530,20 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\APShopDTO\\APShopDTO.csproj": {
-              "projectPath": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\APShopDTO\\APShopDTO.csproj"
+            "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\APShopDTO\\eShopDTO.csproj": {
+              "projectPath": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\APShopDTO\\eShopDTO.csproj"
             },
-            "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
-              "projectPath": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\BusinessLogicLayer\\BusinessLogicLayer.csproj"
+            "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
+              "projectPath": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\BusinessLogicLayer\\BusinessLogicLayer.csproj"
             },
-            "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\DataAccessLayer\\DataAccessLayer.csproj"
+            "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\DataAccessLayer\\DataAccessLayer.csproj"
             },
-            "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\EfModels\\EfModels.csproj": {
-              "projectPath": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\EfModels\\EfModels.csproj"
+            "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\EfModels\\EfModels.csproj": {
+              "projectPath": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\EfModels\\EfModels.csproj"
             },
-            "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\Mapper\\Mapper.csproj": {
-              "projectPath": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\Mapper\\Mapper.csproj"
+            "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\Mapper\\Mapper.csproj": {
+              "projectPath": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\Mapper\\Mapper.csproj"
             }
           }
         }

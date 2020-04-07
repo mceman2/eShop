@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\EfModels\\EfModels.csproj": {}
+    "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\EfModels\\EfModels.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\EfModels\\EfModels.csproj": {
+    "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\EfModels\\EfModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\EfModels\\EfModels.csproj",
+        "projectUniqueName": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\EfModels\\EfModels.csproj",
         "projectName": "EfModels",
-        "projectPath": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\EfModels\\EfModels.csproj",
+        "projectPath": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\EfModels\\EfModels.csproj",
         "packagesPath": "C:\\Users\\Mirza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\EfModels\\obj\\",
+        "outputPath": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\EfModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mirza\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,9 +1,7 @@
 import { Component, OnInit } from '@angular/core';
-import { DataService } from '../data.service';
-import { ActivatedRoute, Router } from '@angular/router';
-import { ProductsService } from '../products.service';
 
-import { User } from '../User.model';
+import { DataService } from '../data.service';
+import { ProductsService } from '../products.service';
 
 @Component({
   selector: 'app-home-page',

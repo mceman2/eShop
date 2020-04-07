@@ -1,10 +1,8 @@
 import { Component, OnInit } from '@angular/core';
-import { ProductCart } from '../productCart.model';
-import { LoginRegistrationService } from '../login-registration.service';
-
 
 import { ProductsCartService } from '../products-cart.service';
-
+import { LoginRegistrationService } from '../login-registration.service';
+import { ProductCart } from '../models/productCart.model';
 
 @Component({
   selector: 'app-cart-product-list',
@@ -15,10 +13,13 @@ export class CartProductListComponent implements OnInit {
 
   //public productsCart: ProductCart[];
 
-  constructor(private productCart: ProductsCartService, private loginService: LoginRegistrationService) { }
+  constructor(private productCartService: ProductsCartService) { }
 
   TotalPrice(): number {
     let totalPrice = 0;
+    if (!this.productsCart) {
+      return 0;
+    }
     this.productsCart.forEach(product => {
       if (product.isChecked === true) {
         totalPrice += product.price * product.quantity;
@@ -27,13 +28,15 @@ export class CartProductListComponent implements OnInit {
     return totalPrice;
   }
 
-  get productsCart() {return this.productCart.cartProducts;}
+  get productsCart() {
+    return this.productCartService.cartProducts;
+  }
 
   ngOnInit() {
-    this.productCart.GetItemsAPI();
+    this.productCartService.GetItemsAPI();
   }
 
  deleteItemFromCart(name, quantity) {
-   this.productCart.DeleteProductFromCart(name, quantity);
+   this.productCartService.DeleteProductFromCart(name, quantity);
  }
 }

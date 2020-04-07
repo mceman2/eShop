@@ -6,3 +6,7 @@
     CONSTRAINT [FK_Cart_User] FOREIGN KEY ([UserId]) REFERENCES [dbo].[User] ([Id])
 );
 
+
+
+
+

@@ -162,7 +162,8 @@ namespace DataAccessLayer
                 if (cartDBContent == null)
                     throw new ArgumentNullException("Couldn't find requested resource");
                 if (cartDBContent.Count() == 0)
-                    throw new Exception("No products in your cart, add something you like");
+                    //throw new Exception("No products in your cart, add something you like");
+                    return new List<CartItem>();
 
                 List<string> codes = new List<string>();
                 foreach (var item in cartDBContent)
@@ -189,17 +190,31 @@ namespace DataAccessLayer
 
 
         public void AddProductToCart(int userId, CartItem cartItem)
-        {
+        {// ovde moras provjeriti da li se dodaje postojeci item, ako dodaje povecaj mu samo quantity
             using (EF.APShopContext context = new EF.APShopContext())
             {
                 UnitOfWork uow = new UnitOfWork(context);
-                
+                List<CartItem> userCartItems = GetCartItems(userId).ToList();
+                foreach(CartItem item in userCartItems)
+                {
+                    if(item.Code == cartItem.Code)
+                    {
+                        EF.CartProduct dboCartProduct1 = new EF.CartProduct();
+                        dboCartProduct1 = _mapper.Map<EF.CartProduct>(item);
+                        dboCartProduct1.Quantity += cartItem.Quantity;
+
+                        context.CartProduct.Update(dboCartProduct1);
+                        context.SaveChanges();
+
+                        return;
+                    }
+                }
                // EF.Cart cart = context.Cart.Where(c => c.UserId == userId).SingleOrDefault();
                 EF.CartProduct dboCartProduct = new EF.CartProduct();
                 //dboCartProduct.CartId = cart.Id;
                 dboCartProduct.Code = cartItem.Code;
                 dboCartProduct.Quantity = cartItem.Quantity;
-
+                
                 uow.Carts.GetByUserId(userId).CartProduct.Add(dboCartProduct);
                 //uow.Users.addCartProduct(dboCartProduct);
 

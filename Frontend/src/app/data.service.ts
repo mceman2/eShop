@@ -1,9 +1,7 @@
 import { Injectable } from '@angular/core';
 import { BehaviorSubject } from 'rxjs';
-import { HttpClient, HttpHeaders, HttpErrorResponse } from '@angular/common/http';
-import { Observable, of } from 'rxjs';
-import { map, catchError, tap } from 'rxjs/operators';
-import { User } from './User.model';
+import { HttpClient } from '@angular/common/http';
+import { User } from './models/User.model';
 
 @Injectable({providedIn: 'root'})
 export class DataService {

@@ -1249,16 +1249,6 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "APShopDTO/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.0",
-        "compile": {
-          "bin/placeholder/APShopDTO.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/APShopDTO.dll": {}
-        }
-      },
       "EfModels/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.0",
@@ -1270,6 +1260,16 @@
         },
         "runtime": {
           "bin/placeholder/EfModels.dll": {}
+        }
+      },
+      "eShopDTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/eShopDTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/eShopDTO.dll": {}
         }
       }
     }
@@ -4915,22 +4915,22 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "APShopDTO/1.0.0": {
-      "type": "project",
-      "path": "../APShopDTO/APShopDTO.csproj",
-      "msbuildProject": "../APShopDTO/APShopDTO.csproj"
-    },
     "EfModels/1.0.0": {
       "type": "project",
       "path": "../EfModels/EfModels.csproj",
       "msbuildProject": "../EfModels/EfModels.csproj"
+    },
+    "eShopDTO/1.0.0": {
+      "type": "project",
+      "path": "../APShopDTO/eShopDTO.csproj",
+      "msbuildProject": "../APShopDTO/eShopDTO.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
-      "APShopDTO >= 1.0.0",
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 7.0.0",
-      "EfModels >= 1.0.0"
+      "EfModels >= 1.0.0",
+      "eShopDTO >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4939,11 +4939,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\Mapper\\Mapper.csproj",
+      "projectUniqueName": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\Mapper\\Mapper.csproj",
       "projectName": "Mapper",
-      "projectPath": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\Mapper\\Mapper.csproj",
+      "projectPath": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\Mapper\\Mapper.csproj",
       "packagesPath": "C:\\Users\\Mirza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\Mapper\\obj\\",
+      "outputPath": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\Mapper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mirza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4959,11 +4959,11 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\APShopDTO\\APShopDTO.csproj": {
-              "projectPath": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\APShopDTO\\APShopDTO.csproj"
+            "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\APShopDTO\\eShopDTO.csproj": {
+              "projectPath": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\APShopDTO\\eShopDTO.csproj"
             },
-            "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\EfModels\\EfModels.csproj": {
-              "projectPath": "C:\\Users\\Mirza\\Desktop\\AP-Shop\\Backend\\EfModels\\EfModels.csproj"
+            "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\EfModels\\EfModels.csproj": {
+              "projectPath": "C:\\Users\\Mirza\\Desktop\\eShop\\Backend\\EfModels\\EfModels.csproj"
             }
           }
         }
